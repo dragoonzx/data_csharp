@@ -1,0 +1,11 @@
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\bin\Debug\netcoreapp2.1\ml_netcore.deps.json
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\bin\Debug\netcoreapp2.1\ml_netcore.runtimeconfig.json
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\bin\Debug\netcoreapp2.1\ml_netcore.runtimeconfig.dev.json
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\bin\Debug\netcoreapp2.1\ml_netcore.dll
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\bin\Debug\netcoreapp2.1\ml_netcore.pdb
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.csprojAssemblyReference.cache
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.csproj.CoreCompileInputs.cache
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.AssemblyInfoInputs.cache
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.AssemblyInfo.cs
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.dll
+C:\Users\xiaomi\Documents\mm_3\ml_netcore\ml_netcore\ml_netcore\obj\Debug\netcoreapp2.1\ml_netcore.pdb
